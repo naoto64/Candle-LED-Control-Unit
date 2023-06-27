@@ -18,7 +18,7 @@
   <tbody>
     <tr>
         <td>最新版</td>
-        <td><a href="https://naoto64.github.io/Capacitive-Rain-Sensor/manual.pdf">manual.pdf</a></td>
+        <td><a href="https://naoto64.github.io/Candle-LED-Control-Unit/manual.pdf">manual.pdf</a></td>
     </tr>
   </tbody>
 </table>
