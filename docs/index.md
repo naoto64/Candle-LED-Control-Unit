@@ -11,3 +11,7 @@
 
 <img src="./img/completion-image-photo01.jpg" alt="完成イメージ写真" width="75%">
 
+
+## 回路図
+
+<img src="./img/board_circuit_diagram.jpg" alt="完成イメージ写真" width="75%">
