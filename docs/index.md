@@ -26,7 +26,7 @@
   </tbody>
 </table>
 
-## 完成イメージ写真
+## 製作例
 
 <img src="./img/completion-image-photo01.jpg" alt="完成イメージ写真" width="75%">
 
