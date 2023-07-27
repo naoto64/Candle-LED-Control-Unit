@@ -20,6 +20,10 @@
   </thead>
   <tbody>
     <tr>
+        <td>初版</td>
+        <td><a href="https://naoto64.github.io/Candle-LED-Control-Unit/manual_20230726.pdf">manual.pdf</a></td>
+    </tr>
+    <tr>
         <td>最新版</td>
         <td><a href="https://naoto64.github.io/Candle-LED-Control-Unit/manual.pdf">manual.pdf</a></td>
     </tr>
